@@ -1,0 +1,24 @@
+{
+  "name": "nursing-course-calendar",
+  "version": "1.0.0",
+  "description": "Event Calendar for Nursing Students",
+  "main": "index.js",
+  "dependencies": {
+    "babel-loader": "^7.1.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^4.0.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.9"
+  },
+  "scripts": {
+    "start": "webpack -w",
+    "build": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
